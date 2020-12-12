@@ -18,6 +18,7 @@ Use this command to update ntp
 |-----|-----------|
 |Port-1| Part of help command|
 |Port-2| Part of other command|
+|Port-3| Part of other command|
 
 ## Password Policy
 
