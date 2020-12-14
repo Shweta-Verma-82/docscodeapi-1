@@ -19,6 +19,8 @@ Use this command to update ntp
 |Port-1| Part of help command|
 |Port-2| Part of other command|
 |Port-3| Part of other command|
+|Port-4| Part of other command|
+|Port-5 Part of other command|
 
 ## Password Policy
 
@@ -33,6 +35,7 @@ _The following are the rules to create a password:_
 1. The minimum password length must be 8.
 1. The minimum number of characters includes number, uppercase and lowercase letters, and special characters.
 1. A space is allowed only between the characters in a password, not in the beginning or the end of the password.
+1. Do no use the previously used password.
 
 For more details, see the details here: [Password](http://google.com)
 
