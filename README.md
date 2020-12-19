@@ -1,5 +1,5 @@
 ----
-layout: template
+layout: create template
 ---
 
 # Person profile
